@@ -1,0 +1,6 @@
+{
+  "name": "RM Music",
+  "description": "A premium Apple Music Clone with a gorgeous UI, featuring library management, browse categories, live radio streams, global search, a persistent mini-player, full-screen player with scrolling lyrics, and responsive light/dark design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
